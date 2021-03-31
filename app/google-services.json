@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567547242504",
+    "project_id": "transapp-6ae6b",
+    "storage_bucket": "transapp-6ae6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567547242504:android:45d632b0750a1a2c5349bd",
+        "android_client_info": {
+          "package_name": "com.irosh.transapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567547242504-gcvr0g6roeod980v0f7tcklniur25hh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxUzM7d_7-FCZ8_BiNfbR1jNXO4Hh6-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567547242504-gcvr0g6roeod980v0f7tcklniur25hh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
